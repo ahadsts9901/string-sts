@@ -11,7 +11,6 @@
 - Use the function
 
     const reversedString = reversestr("string")
-    console.log(reversedString)
 
 - Output
 
