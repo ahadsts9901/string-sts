@@ -1,5 +1,7 @@
 ## Here is my first npm package.
 
+<img src='https://avatars.githubusercontent.com/u/120649081?v=4' width="100" height="100" />
+
 - Install the package from npm
 
     npm i string-sts
